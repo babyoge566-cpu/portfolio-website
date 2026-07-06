@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme{
+    --color-pri-col: #1e40ae;
+    --color-white: #f6f6f6;
+    --color-dark-blue: #0f172a;
+    --color-green: #22c55e;
+    --color-purple: #a855f7;
+    --color-deep-blue: #131a2a;
+    --color-light-blue: #3b82f6;
+    --color-blue-shade: #152032;
+    --color-gold: #f59e0b;
+    --color-goldnerd: #fbbf24;
+}
+
+@keyframes rotate {}

@@ -1,0 +1,22 @@
+ first prompt
+
+ Hi chatGPT. please, i'm still newbie in web development. please i want you to create a personal portfolio website using html and css, put this my image at the hero section
+
+
+second prompt
+please help me create an ATS-compliment Resume/cv and link it to the Hero section
+
+THIRD PROMPT
+i want my About Section to have box
+
+FOURTH PROMPT
+thank you chatGPT. please i want you to include the projects completed in this program, each program should have its own card box.
+
+FIFTH PROMPT
+Each card box should show a high level of summary of what the project set out to solve.
+
+SIXTH PROMPT
+
+
+FOOTER PROMPT
+make my footer and my menu bar sticky
